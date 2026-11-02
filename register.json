@@ -1,15 +1,19 @@
 {
-  "$schema": "./schema/register.schema.json",
-  "openrepos.io": {},
-  "openrepos.org": {
-    "kubecell": {
-      "repo": "https://github.com/taosher/KubeCell",
-      "target": "kubecell.pages.dev"
-    }
-  },
-  "openrepos.sh": {},
-  "repos.one": {},
-  "sourcepage.io": {},
-  "sourcepage.org": {},
-  "sourcepage.sh": {}
+"$schema": "./schema/register.schema.json",
+"openrepos.io": {},
+"openrepos.org": {
+"kubecell": {
+"repo": "https://github.com/taosher/KubeCell",
+"target": "kubecell.pages.dev"
+},
+"student-management-system": {
+"repo": "https://github.com/qwa231hub/student-management-system",
+"target": "qwa231hub.github.io"
+}
+},
+"openrepos.sh": {},
+"repos.one": {},
+"sourcepage.io": {},
+"sourcepage.org": {},
+"sourcepage.sh": {}
 }
